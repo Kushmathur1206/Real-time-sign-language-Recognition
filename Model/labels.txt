@@ -1,8 +1,5 @@
 0 Hello
 1 I love you
-2 Please
-3 Ok
-4 Thank you
-5 Yes
-6 No
-7 Sorry
+2 Ok
+3 Yes
+4 No

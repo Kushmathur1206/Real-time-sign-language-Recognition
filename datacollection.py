@@ -19,7 +19,7 @@ display_message = True
 
 while True:
     success, img = cap.read()
-    hands, img = detector.findHands(img)
+    hands, img = detector.findHands(img, draw=False)
     if hands:
         hand = hands[0]
         x,y,w,h = hand['bbox']

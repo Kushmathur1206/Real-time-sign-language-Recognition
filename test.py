@@ -11,7 +11,7 @@ offset = 20
 imgSize = 200
 counter = 0
 
-labels = ["I love you", "Please", "Ok", "Thank you", "Yes", "No", "Sorry"]
+labels = ["Hello", "I love you", "Ok", "Yes", "No"]
 
 while True:
     success, img = cap.read()
